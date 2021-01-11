@@ -32,3 +32,8 @@ $ docker run -it --rm \
 	qmk-builder \
 	qmk flash -kb ${KEYBOARD} -km ${KEYMAP}
 ```
+
+Advanced keymap example
+-----------------------
+
+See my [Moonlander keymap](https://github.com/fdu/moonlander-keymap).
